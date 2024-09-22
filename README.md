@@ -16,8 +16,8 @@ If you want to download the complete project, please click the link below:
 
 First, install the Python dependencies:
 ```
-conda create -n MSc_190894696_project python==3.9
-conda activate MSc_190894696_project
+conda create -n BRAINBYTE_SEARCH_ENGINE python==3.9
+conda activate BRAINBYTE_SEARCH_ENGINE
 pip install -r environment.txt
 ```
 ### Setting `PYTHONPATH` in Conda Environment
